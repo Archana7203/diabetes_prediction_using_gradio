@@ -56,6 +56,7 @@ The **Random Forest Classifier** achieved the highest accuracy.
 | Model | Accuracy Score |
 |-------|----------------|
 | **Random Forest Classifier** | **96.71%** |
+| Decision Tree Classifier | 95.19% |
 | K-Nearest Neighbors (KNN) | 93.99% |
 | Logistic Regression | 93.32% |
 | Support Vector Classifier (SVC) | 93.14% |
